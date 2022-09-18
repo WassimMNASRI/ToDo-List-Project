@@ -43,7 +43,7 @@ To define
 ## Technology
 
 * HTML5/CSS3/JavaScript
-*[Boosttrap](https://getbootstrap.com/)
+*[Bootstrap](https://getbootstrap.com/)
 
 ## Contribution
 
